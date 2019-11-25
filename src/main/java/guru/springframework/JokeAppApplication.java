@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ChuckNorrisForActuatorApplication {
+public class JokeAppApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ChuckNorrisForActuatorApplication.class, args);
+        SpringApplication.run(JokeAppApplication.class, args);
     }
 
 }
